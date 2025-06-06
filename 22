@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirect</title>
+  <meta http-equiv="refresh" content="0; url=wartungsliste.html" />
+</head>
+<body>
+  <p>Wenn du nicht automatisch weitergeleitet wirst, <a href="wartungsliste.html">hier klicken</a>.</p>
+</body>
+</html>
